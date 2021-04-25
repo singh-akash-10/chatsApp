@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "876212854442",
+    "project_id": "chatsapp-bfaa9",
+    "storage_bucket": "chatsapp-bfaa9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876212854442:android:3e8b6ab8c354208c587ad3",
+        "android_client_info": {
+          "package_name": "com.mianasad.chatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876212854442-hrmfnoi0vudtkt9lv5alc9up7l6coiao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5XNVEK_8ljx-g_Dl89g2nh8eZombo6xI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876212854442-hrmfnoi0vudtkt9lv5alc9up7l6coiao.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
